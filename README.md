@@ -48,6 +48,3 @@ Comfortable across the entire stack, with hands-on production experience in Type
 
 ---
 
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:8200107@estg.ipp.pt)
